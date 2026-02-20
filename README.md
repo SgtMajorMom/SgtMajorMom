@@ -43,5 +43,7 @@ A growing collection of cybersecurity labs with clear methodology, screenshots, 
 ---
 
 ## 🤝 Let’s Connect
-- **LinkedIn:** *(add your link here)*  
+**LinkedIn:** [Dorothy Spencer](https://www.linkedin.com/in/dorothy-spencer-74527117/)
+
+ 
 - **GitHub:** You’re already here  
