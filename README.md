@@ -15,13 +15,17 @@ My goal is to build a portfolio that helps beginners learn while demonstrating t
 
 ---
 
-## 🧰 Technical Skills
-- **Networking & Enumeration:** Nmap, service detection, targeted scanning  
-- **Linux:** navigation, permissions, user context, filesystem analysis  
-- **Web Fundamentals:** cookies, headers, source analysis  
-- **Scripting:** PowerShell for automation and workflow clarity  
-- **Identity & Access:** AD/Azure AD concepts, access control logic  
-- **Troubleshooting:** methodical, step‑by‑step, audit‑ready  
+---
+
+### 🛠️ Tech Snapshot
+
+![Linux](https://img.shields.io/badge/Linux-000?logo=linux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-005C84?logo=nmap&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+![Azure AD](https://img.shields.io/badge/Azure%20AD-0078D4?logo=microsoftazure&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-1BB55C?logo=servicenow&logoColor=white)
+![HackTheBox](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?logo=hackthebox&logoColor=black)
+
 
 ---
 
@@ -44,6 +48,4 @@ A growing collection of cybersecurity labs with clear methodology, screenshots, 
 
 ## 🤝 Let’s Connect
 **LinkedIn:** [Dorothy Spencer](https://www.linkedin.com/in/dorothy-spencer-74527117/)
-
- 
 - **GitHub:** You’re already here  
