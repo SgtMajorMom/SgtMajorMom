@@ -40,8 +40,17 @@ I document my labs in a way that:
 ---
 
 ## 📂 Featured Work
-### 🔎 HackerDNA Learning Labs  
-A growing collection of cybersecurity labs with clear methodology, screenshots, and step‑by‑step workflows.  
+### 🔎 HackerDNA Cybersecurity Labs  
+A curated collection of hands‑on cybersecurity labs where I document my full workflow — enumeration, analysis, exploitation attempts, troubleshooting, and lessons learned. Each write‑up reflects my process‑driven approach and shows how I think through problems, not just the commands I run.
+
+I focus on:
+
+- web exploitation fundamentals
+- access control and authentication flaws
+- cookie manipulation and hidden content discovery
+- enumeration and analysis techniques
+- structured, beginner‑friendly documentation
+  
 👉 **[View the repository](https://github.com/SgtMajorMom/HackerDNA-Writeups)**
 
 ---
