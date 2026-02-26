@@ -22,6 +22,12 @@ My goal is to build a portfolio that helps beginners learn while demonstrating t
 ![Nmap](https://img.shields.io/badge/Nmap-005C84?logo=nmap&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ![Azure AD](https://img.shields.io/badge/Azure%20AD-0078D4?logo=microsoftazure&logoColor=white)
+![O365](https://img.shields.io/badge/O365-0078D4?logo=microsoftoffice&logoColor=white)
+![Netwrix](https://img.shields.io/badge/Netwrix-FF0000?logo=netwrix&logoColor=white)
+![Tenable](https://img.shields.io/badge/Tenable-01A7E1?logo=tenable&logoColor=white)
+![Intune](https://img.shields.io/badge/Intune-0078D4?logo=microsoftintune&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra%20ID-0078D4?logo=microsoftazure&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-2CA5E0?logo=powershell&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-1BB55C?logo=servicenow&logoColor=white)
 ![HackTheBox](https://img.shields.io/badge/HackerDNA-9FEF00?logo=hackthebox&logoColor=black)
 
