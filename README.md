@@ -1,3 +1,4 @@
+
 # Hi, I'm Dorothy Spencer 👋  
 ### Process‑Driven IT Professional Pivoting Into Cybersecurity
 
@@ -15,9 +16,7 @@ My goal is to build a portfolio that helps beginners learn while demonstrating t
 
 ---
 
----
-
-### 🛠️ Tech Snapshot
+## 🛠️ Tech Snapshot
 
 ![Linux](https://img.shields.io/badge/Linux-000?logo=linux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-005C84?logo=nmap&logoColor=white)
@@ -26,6 +25,16 @@ My goal is to build a portfolio that helps beginners learn while demonstrating t
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-1BB55C?logo=servicenow&logoColor=white)
 ![HackTheBox](https://img.shields.io/badge/HackerDNA-9FEF00?logo=hackthebox&logoColor=black)
 
+
+---
+
+- **Identity & Access Management** — Active Directory, Azure AD, Entra ID, Exchange, SSO/LDAP, access reviews, lifecycle provisioning
+- **Security Operations** — Incident triage, alert validation, endpoint investigations, vulnerability scanning (Tenable, Netwrix), log analysis
+- **Automation & Scripting** — PowerShell for workflow automation, bulk provisioning, audit‑ready reporting
+- **Endpoint & Device Management** — Intune, JAMF, Windows/macOS fleet configuration, profile deployment
+- **ITSM & Support Tools** — ServiceNow, FreshService, Lotus Notes, SLA management, runbooks, onboarding guides
+- **Collaboration & SaaS** — Microsoft 365 ecosystem, Teams, SharePoint, OneDrive, VoIP/UC platforms
+- **Cybersecurity Labs & Learning** — HackerDNA web exploitation labs, enumeration workflows, access control testing, documentation‑driven analysis
 
 ---
 
@@ -43,7 +52,7 @@ I document my labs in a way that:
 ### 🔎 HackerDNA Cybersecurity Labs  
 A curated collection of hands‑on cybersecurity labs where I document my full workflow — enumeration, analysis, exploitation attempts, troubleshooting, and lessons learned. Each write‑up reflects my process‑driven approach and shows how I think through problems, not just the commands I run.
 
-I focus on:
+I am focusing on:
 
 - web exploitation fundamentals
 - access control and authentication flaws
@@ -56,5 +65,6 @@ I focus on:
 ---
 
 ## 🤝 Let’s Connect
-**LinkedIn:** [Dorothy Spencer](https://www.linkedin.com/in/dorothy-spencer-74527117/)
-- **GitHub:** You’re already here  
+- **LinkedIn:** [Dorothy Spencer](https://www.linkedin.com/in/dorothy-spencer-74527117/)
+- **GitHub:** You’re already here
+- **Email:** sgtmajormom@proton.me
