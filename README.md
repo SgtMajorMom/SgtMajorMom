@@ -24,7 +24,7 @@ My goal is to build a portfolio that helps beginners learn while demonstrating t
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ![Azure AD](https://img.shields.io/badge/Azure%20AD-0078D4?logo=microsoftazure&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-1BB55C?logo=servicenow&logoColor=white)
-![HackTheBox](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?logo=hackthebox&logoColor=black)
+![HackTheBox](https://img.shields.io/badge/HackerDNA-9FEF00?logo=hackthebox&logoColor=black)
 
 
 ---
