@@ -8,11 +8,11 @@ My goal is to build a portfolio that helps beginners learn while demonstrating t
 ---
 
 ## 🔐 What I’m Focused On Right Now
-- Building a structured portfolio of HackerDNA labs  
-- Strengthening enumeration and analysis skills  
-- Practicing web exploitation fundamentals  
-- Improving documentation clarity and workflow consistency  
-- Preparing for Security Analyst / Jr Pen Tester roles  
+- Building a structured, professional portfolio of HackerDNA cybersecurity labs  
+- Strengthening enumeration, analysis, and web exploitation fundamentals  
+- Improving documentation clarity, workflow consistency, and investigative reasoning  
+- Developing repeatable processes for security analysis and troubleshooting  
+- Preparing for Security Analyst and Junior Penetration Tester roles
 
 ---
 
@@ -56,18 +56,20 @@ I document my labs in a way that:
 ---
 
 ## 📂 Featured Work
-### 🔎 HackerDNA Cybersecurity Labs  
-A curated collection of hands‑on cybersecurity labs where I document my full workflow — enumeration, analysis, exploitation attempts, troubleshooting, and lessons learned. Each write‑up reflects my process‑driven approach and shows how I think through problems, not just the commands I run.
 
-I am focusing on:
+### 🔎 HackerDNA Cybersecurity Labs
+A curated collection of hands‑on cybersecurity labs where I document my full workflow — enumeration, analysis, exploitation attempts, troubleshooting, and lessons learned.  
+Each write‑up reflects my process‑driven approach and demonstrates how I think through problems, not just the commands I run.
 
-- web exploitation fundamentals
-- access control and authentication flaws
-- cookie manipulation and hidden content discovery
-- enumeration and analysis techniques
-- structured, beginner‑friendly documentation
-  
-👉 **[View the repository](https://github.com/SgtMajorMom/HackerDNA-Writeups)**
+**Current areas of focus:**
+- Web exploitation fundamentals  
+- Access control and authentication flaws  
+- Cookie manipulation and hidden content discovery  
+- Enumeration and analysis techniques  
+- Structured, beginner‑friendly documentation
+
+👉 **View the repository:** https://github.com/SgtMajorMom/HackerDNA-Labs
+
 
 ---
 
