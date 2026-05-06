@@ -8,7 +8,7 @@ My goal is to build a portfolio that helps beginners learn while demonstrating t
 ---
 
 ## 🔐 What I’m Focused On Right Now
-- Building a structured, professional portfolio of HackerDNA cybersecurity labs  
+- Building a structured portfolio of HackerDNA labs   
 - Strengthening enumeration, analysis, and web exploitation fundamentals  
 - Improving documentation clarity, workflow consistency, and investigative reasoning  
 - Developing repeatable processes for security analysis and troubleshooting  
@@ -17,7 +17,6 @@ My goal is to build a portfolio that helps beginners learn while demonstrating t
 ---
 
 ## 🛠️ Tech Snapshot
-
 ![Linux](https://img.shields.io/badge/Linux-000?logo=linux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-005C84?logo=nmap&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
@@ -31,7 +30,6 @@ My goal is to build a portfolio that helps beginners learn while demonstrating t
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-1BB55C?logo=servicenow&logoColor=white)
 ![HackTheBox](https://img.shields.io/badge/HackerDNA-9FEF00?logo=hackthebox&logoColor=black)
 
-
 ---
 
 - **Identity & Access Management** — Active Directory • Azure AD • Entra ID • Exchange • SSO/LDAP • MFA • access reviews • lifecycle management • RBAC • Group Policy
@@ -43,6 +41,7 @@ My goal is to build a portfolio that helps beginners learn while demonstrating t
 - **Cybersecurity Labs & Learning** — HackerDNA web exploitation labs • enumeration workflows • access control testing •  documentation‑driven analysis
 - **Networking & Infrastructure** - DNS • DHCP • VPN • Firewalls (basic) • TCP/IP • Wi‑Fi troubleshooting
 - **Documentation & Operational Excellence** - SOPs basics • KB Articles • Runbooks • Onboarding Guides • Ticket Triage • Root Cause Analysis
+  
 ---
 
 ## 📘 My Learning Philosophy
@@ -69,7 +68,6 @@ Each write‑up reflects my process‑driven approach and demonstrates how I thi
 - Structured, beginner‑friendly documentation
 
 👉 **View the repository:** https://github.com/SgtMajorMom/HackerDNA-Labs
-
 
 ---
 
