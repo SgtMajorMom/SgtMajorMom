@@ -34,14 +34,15 @@ My goal is to build a portfolio that helps beginners learn while demonstrating t
 
 ---
 
-- **Identity & Access Management** — Active Directory, Azure AD, Entra ID, Exchange, SSO/LDAP, access reviews, lifecycle provisioning
-- **Security Operations** — Incident triage, alert validation, endpoint investigations, vulnerability scanning (Tenable, Netwrix), log analysis
-- **Automation & Scripting** — PowerShell for workflow automation, bulk provisioning, audit‑ready reporting
-- **Endpoint & Device Management** — Intune, JAMF, Windows/macOS fleet configuration, profile deployment
+- **Identity & Access Management** — Active Directory, Azure AD, Entra ID, Exchange, SSO/LDAP, MFA, access reviews, lifecycle management, RBAC, Group Policy
+- **Security Ops & Monitoring** — SEIM Alert Review, Event Validations, Email Header Analysis, Incident triage, alert validation, endpoint investigations, vulnerability scanning (Tenable, Netwrix), log analysis, PPI Handling, HIPPA
+- **Automation & Scripting** — PowerShell, Bash (basic), Automation for onboarding/offboarding, Log collection, SaaS admin scripting
+- **Endpoint & Device Management** — Intune basics, JAMF, Windows/macOS fleet configuration, profile deployment, Device Enrollment, Compliance Policies
 - **ITSM & Support Tools** — ServiceNow, FreshService, Lotus Notes, SLA management, runbooks, onboarding guides
 - **Collaboration & SaaS** — Microsoft 365 ecosystem, Teams, SharePoint, OneDrive, VoIP/UC platforms
 - **Cybersecurity Labs & Learning** — HackerDNA web exploitation labs, enumeration workflows, access control testing, documentation‑driven analysis
-
+- **Networking & Infrastructure** - DNS, DHCP, VPN, Firewalls (basic), TCP/IP, Wi‑Fi troubleshooting
+- **Documentation & Operational Excellence** - SOPs basics, KB Articles, Runbooks, Onboarding Guides, Ticket Triage, Root Cause Analysis
 ---
 
 ## 📘 My Learning Philosophy
