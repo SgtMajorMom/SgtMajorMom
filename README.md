@@ -10,25 +10,24 @@ Right now, I’m expanding deeper into security workflows — SIEM alert validat
 
 ---
 
-## 🔐 What I Do
-- IT Support II (macOS, Windows, SaaS, M365, Google Workspace)  
-- Identity & Access Management (Okta, Google Workspace, SSO, MFA, lifecycle automation)  
-- Endpoint Security (SentinelOne, Proofpoint, Kandji MDM)  
-- Security Operations Support (SIEM triage, phishing analysis, event validation)  
-- PowerShell automation for IT + security workflows  
-- Documentation: SOPs, KBs, onboarding guides, troubleshooting playbooks  
+## 🔐 What I Do & What I’m Focused On Right Now
 
----
+### 💼 What I Do
+ 💻 IT Support II (macOS, Windows, SaaS, M365, Google Workspace)  
+ 🔑 Identity & Access Management (Okta, Google Workspace, SSO, MFA, lifecycle automation)  
+ 🛡️ Endpoint Security (SentinelOne, Proofpoint, Kandji MDM)  
+ 🚨 Security Operations Support (SIEM triage, phishing analysis, event validation)  
+ ⚙️ PowerShell automation for IT + security workflows  
+ 📘 Documentation: SOPs, KBs, onboarding guides, troubleshooting playbooks  
 
-## 🔐 What I’m Focused On Right Now
-- Building a structured portfolio of HackerDNA labs
-- Building a practical cybersecurity portfolio
-- PowerShell automation for security investigations  
-- Strengthening enumeration, analysis, and web exploitation fundamentals  
-- Improving documentation clarity, workflow consistency, and investigative reasoning  
-- Developing repeatable processes for security analysis and troubleshooting  
-- Preparing for Security Analyst and Junior Penetration Tester roles
-- Hands‑on SOC & Cybersecurity labs (HackerDNA, TryHackMe)  
+### 🎯 Current Security Focus
+ 🧪 Building a structured cybersecurity portfolio (HackerDNA, TryHackMe)  
+ 🔍 PowerShell automation for security investigations  
+ 🧭 Strengthening enumeration, analysis, and web exploitation fundamentals  
+ 📝 Improving documentation clarity, workflow consistency, and investigative reasoning  
+ 🔁 Developing repeatable processes for security analysis and troubleshooting  
+ 🎓 Preparing for Security Analyst and Junior Penetration Tester roles  
+
 
 ---
 
@@ -42,7 +41,6 @@ Right now, I’m expanding deeper into security workflows — SIEM alert validat
 ![Tenable](https://img.shields.io/badge/Tenable-01A7E1?logo=tenable&logoColor=white)
 ![Intune](https://img.shields.io/badge/Intune-0078D4?logo=microsoftintune&logoColor=white)
 ![Entra ID](https://img.shields.io/badge/Entra%20ID-0078D4?logo=microsoftazure&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-2CA5E0?logo=powershell&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-1BB55C?logo=servicenow&logoColor=white)
 ![HackTheBox](https://img.shields.io/badge/HackerDNA-9FEF00?logo=hackthebox&logoColor=black)
 
