@@ -13,20 +13,20 @@ Right now, I’m expanding deeper into security workflows — SIEM alert validat
 ## 🔐 What I Do & What I’m Focused On Right Now
 
 ### 💼 What I Do
- 💻 IT Support II (macOS, Windows, SaaS, M365, Google Workspace)  
- 🔑 Identity & Access Management (Okta, Google Workspace, SSO, MFA, lifecycle automation)  
- 🛡️ Endpoint Security (SentinelOne, Proofpoint, Kandji MDM)  
- 🚨 Security Operations Support (SIEM triage, phishing analysis, event validation)  
- ⚙️ PowerShell automation for IT + security workflows  
- 📘 Documentation: SOPs, KBs, onboarding guides, troubleshooting playbooks  
+- IT Support II (macOS, Windows, SaaS, M365, Google Workspace)  
+- Identity & Access Management (Okta, Google Workspace, SSO, MFA, lifecycle automation)  
+- Endpoint Security (SentinelOne, Proofpoint, Kandji MDM)  
+- Security Operations Support (SIEM triage, phishing analysis, event validation)  
+- PowerShell automation for IT + security workflows  
+- Documentation: SOPs, KBs, onboarding guides, troubleshooting playbooks  
 
 ### 🎯 Current Security Focus
- 🧪 Building a structured cybersecurity portfolio (HackerDNA, TryHackMe)  
- 🔍 PowerShell automation for security investigations  
- 🧭 Strengthening enumeration, analysis, and web exploitation fundamentals  
- 📝 Improving documentation clarity, workflow consistency, and investigative reasoning  
- 🔁 Developing repeatable processes for security analysis and troubleshooting  
- 🎓 Preparing for Security Analyst and Junior Penetration Tester roles  
+- Building a structured cybersecurity portfolio (HackerDNA, TryHackMe)  
+- PowerShell automation for security investigations  
+- Strengthening enumeration, analysis, and web exploitation fundamentals  
+- Improving documentation clarity, workflow consistency, and investigative reasoning  
+- Developing repeatable processes for security analysis and troubleshooting  
+- Preparing for Security Analyst and Junior Penetration Tester roles  
 
 
 ---
