@@ -2,17 +2,33 @@
 # Hi, I'm Dorothy Spencer 👋  
 ### Process‑Driven IT Professional Pivoting Into Cybersecurity
 
-I’m a hands‑on learner who documents every step of my cybersecurity journey with clarity, accuracy, and transparency.  
-My goal is to build a portfolio that helps beginners learn while demonstrating the mindset and methodology expected of a Security Analyst or Junior Penetration Tester.
+I’m an IT Support Specialist with strong experience in identity management, SaaS administration, endpoint security, and secure operations in regulated environments.  
+
+I love solving problems, automating repetitive tasks, and building clean documentation that helps teams work smarter and safer. My goal is to build a portfolio that helps beginners learn while demonstrating the mindset and methodology expected of a Security Analyst or Junior Penetration Tester.
+
+Right now, I’m expanding deeper into security workflows — SIEM alert validation, phishing analysis, log forensics, and hands‑on SOC labs (HackerDNA + TryHackMe).
+
+---
+
+## 🔐 What I Do
+- IT Support II (macOS, Windows, SaaS, M365, Google Workspace)  
+- Identity & Access Management (Okta, Google Workspace, SSO, MFA, lifecycle automation)  
+- Endpoint Security (SentinelOne, Proofpoint, Kandji MDM)  
+- Security Operations Support (SIEM triage, phishing analysis, event validation)  
+- PowerShell automation for IT + security workflows  
+- Documentation: SOPs, KBs, onboarding guides, troubleshooting playbooks  
 
 ---
 
 ## 🔐 What I’m Focused On Right Now
-- Building a structured portfolio of HackerDNA labs   
+- Building a structured portfolio of HackerDNA labs
+- Building a practical cybersecurity portfolio
+- PowerShell automation for security investigations  
 - Strengthening enumeration, analysis, and web exploitation fundamentals  
 - Improving documentation clarity, workflow consistency, and investigative reasoning  
 - Developing repeatable processes for security analysis and troubleshooting  
 - Preparing for Security Analyst and Junior Penetration Tester roles
+- Hands‑on SOC & Cybersecurity labs (HackerDNA, TryHackMe)  
 
 ---
 
@@ -33,7 +49,7 @@ My goal is to build a portfolio that helps beginners learn while demonstrating t
 ---
 
 - **Identity & Access Management** — Active Directory • Azure AD • Entra ID • Exchange • SSO/LDAP • MFA • access reviews • lifecycle management • RBAC • Group Policy
-- **Security Ops & Monitoring** — SEIM Alert Review • Event Validations • Email Header Analysis • Incident triage • alert validation • endpoint investigations • vulnerability scanning (Tenable, Netwrix) • log analysis • PPI Handling • HIPPA
+- **Security Ops & Monitoring** — SEIM Alert Review • Event Validations • Email Header Analysis • Incident triage • alert validation • endpoint investigations • vulnerability scanning (Tenable, Netwrix) • log analysis 
 - **Automation & Scripting** — PowerShell • Bash (basic) • Automation for onboarding/offboarding • Log collection • SaaS admin scripting
 - **Endpoint & Device Management** — Intune basics • JAMF • Windows/macOS fleet configuration • profile deployment • Device Enrollment • Compliance Policies
 - **ITSM & Support Tools** — ServiceNow • FreshService • Lotus Notes • SLA management • runbooks • onboarding guides
@@ -41,6 +57,7 @@ My goal is to build a portfolio that helps beginners learn while demonstrating t
 - **Cybersecurity Labs & Learning** — HackerDNA web exploitation labs • enumeration workflows • access control testing •  documentation‑driven analysis
 - **Networking & Infrastructure** - DNS • DHCP • VPN • Firewalls (basic) • TCP/IP • Wi‑Fi troubleshooting
 - **Documentation & Operational Excellence** - SOPs basics • KB Articles • Runbooks • Onboarding Guides • Ticket Triage • Root Cause Analysis
+- **Compliance:** HIPAA, PHI/PII handling, regulated environments  
   
 ---
 
@@ -54,18 +71,19 @@ I document my labs in a way that:
 
 ---
 
-## 📂 Featured Work
+## 📂 Featured Projects
+### 🔎 PowerShell Security Toolkit  
+Automates suspicious logon detection, user activity review, and event log parsing.  
+*PowerShell • Windows Event Logs • Security Automation*  
+➡️ `/Cybersecurity-Portfolio/Projects/PowerShell-Security-Toolkit`
 
-### 🔎 HackerDNA Cybersecurity Labs
-A curated collection of hands‑on cybersecurity labs where I document my full workflow — enumeration, analysis, exploitation attempts, troubleshooting, and lessons learned.  
-Each write‑up reflects my process‑driven approach and demonstrates how I think through problems, not just the commands I run.
+### 🧪 HackerDNA Writeups  
+Structured, professional writeups of hands‑on SOC labs.  
+*Alert triage • Log analysis • Identity abuse detection*  
+➡️ `/HackerDNA-Writeups`
 
-**Current areas of focus:**
-- Web exploitation fundamentals  
-- Access control and authentication flaws  
-- Cookie manipulation and hidden content discovery  
-- Enumeration and analysis techniques  
-- Structured, beginner‑friendly documentation
+### 📨 Email Header Analyzer (Coming Soon)  
+PowerShell tool for parsing email headers and identifying phishing indicators.
 
 👉 **View the repository:** https://github.com/SgtMajorMom/HackerDNA-Labs
 
