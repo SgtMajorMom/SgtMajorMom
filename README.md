@@ -93,3 +93,10 @@ PowerShell tool for parsing email headers and identifying phishing indicators.
 - **LinkedIn:** [Dorothy Spencer](https://www.linkedin.com/in/dorothy-spencer-74527117/)
 - **GitHub:** You’re already here
 - **Email:** sgtmajormom@proton.me
+
+---
+
+## 🌟 About Me
+I’m a lifelong learner with a background in healthcare, IT support, and identity management — now building toward a security‑focused career path.  
+I love digging into logs, solving puzzles, and understanding *why* systems behave the way they do.  
+My goal is to contribute to teams that value secure, reliable technology and continuous improvement.
