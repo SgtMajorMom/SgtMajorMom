@@ -46,6 +46,20 @@ Right now, I’m expanding deeper into security workflows — SIEM alert validat
 
 ---
 
+## 🎓 Certifications & Training
+
+- **Cisco Networking Academy — Introduction to Cybersecurity**  
+  *Badge earned: May 2026*  
+  [View Credential](https://www.credly.com/earner/earned/share/7dafb47b-b434-4f37-818e-1bba5dad2ee1)
+
+- **TryHackMe — Active Learning Path**  
+  *SOC Level 1 • Jr PenTester • AI Forensics • Ongoing labs*
+
+- **HackerDNA — SOC Analyst & Jr PenTester Learning Paths**  
+  *Hands‑on SOC labs, alert triage, identity abuse detection*
+
+---
+
 - **Identity & Access Management** — Active Directory • Azure AD • Entra ID • Exchange • SSO/LDAP • MFA • access reviews • lifecycle management • RBAC • Group Policy
 - **Security Ops & Monitoring** — SEIM Alert Review • Event Validations • Email Header Analysis • Incident triage • alert validation • endpoint investigations • vulnerability scanning (Tenable, Netwrix) • log analysis 
 - **Automation & Scripting** — PowerShell • Bash (basic) • Automation for onboarding/offboarding • Log collection • SaaS admin scripting
